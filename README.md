@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**Fede04121995/Fede04121995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--# Federica Acciarino -- Napoli -- Classe '95  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 **Attualmente Impegnata in:**  
+- 🧑🏻‍💻 **Junior Salesforce Developer**  
+- 🐍 **Python & Machine Learning Enthusiast**  
+
+---
+
+## 📈 **Percorso Formativo:**  
+- 📚 **Corso Salesforce Developer:** 500 ore, focus su Apex, Admin & Developer  
+- 🎓 **Corso Intensivo Python & Machine Learning:** 240 ore, automazione e data analysis  
+
+---
+
+## 🎯 **Obiettivo Professionale:**  
+"Mettere a frutto le mie competenze tecniche e la mia determinazione per contribuire a progetti innovativi e di valore, continuando a crescere nel settore IT."  
+
+---
+
+## 📬 **Contatti:**  
+- 📧 Email: acciarinofederica@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/Federica-Acciarino)
+  
+
+---
+
+✨ **Grazie per aver visitato il mio profilo!** ✨
